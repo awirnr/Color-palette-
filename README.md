@@ -1,4 +1,4 @@
-# Color-palette-
+## Color-palette-
 
 #000000	Black (W3C)
 
@@ -68,17 +68,17 @@
 
 #BCC6CC	Metallic Silver
 
-#۹۸AFC7	Blue Gray
+#98AFC7	Blue Gray
 
-#۸۳۸۹۹۶	Roman Silver
+#838996	Roman Silver
 
-#۷۷۸۸۹۹	LightSlateGray or LightSlateGrey (W3C)
+#778899	LightSlateGray or LightSlateGrey (W3C)
 
-#۷۰۸۰۹۰	SlateGray or SlateGrey (W3C)
+#708090	SlateGray or SlateGrey (W3C)
 
-#۶D7B8D	Rat Gray
+#6D7B8D	Rat Gray
 
-#۶۵۷۳۸۳	Slate Granite Gray
+#657383	Slate Granite Gray
 
 #۶۱۶D7E	Jet Gray
 
